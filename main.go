@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 import "github.com/VanOps/goland-map-reduce/functionMap"
+import "github.com/VanOps/goland-map-reduce/functionReduce"
 
 func main() {
 	f := func(i int) int {
